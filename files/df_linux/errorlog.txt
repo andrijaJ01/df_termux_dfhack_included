@@ -1,0 +1,133 @@
+path fail: carp,0,33,147 -> 18,15,147: Id #4335:Path Goal Flee Terrain:Station Marauder Mill at 7,34,147
+path fail: cat,1,36,147 -> 1,34,147: Id #4331:Path Goal Hunt Vermin:Station Vermin Hunting at 0,36,147
+path fail: cat,0,36,147 -> 1,34,147: Id #4332:Path Goal Hunt Vermin:Station Vermin Hunting at 0,36,147
+path fail: cat,0,35,147 -> 1,34,147: Id #4332:Path Goal Hunt Vermin:Station Vermin Hunting at 0,36,147
+path fail: dwarf,Fell Tree,61,61,148 -> 62,62,149: Id #4327:Path Goal Chop:Station Wagon at 92,72,149
+path fail: dwarf,Fell Tree,87,71,149 -> 82,71,149: Id #4327:Path Goal Chop:Station Wagon at 92,72,149
+path fail: dwarf,Fell Tree,82,71,149 -> 80,73,149: Id #4327:Path Goal Chop:Station Wagon at 97,72,149
+path fail: dwarf,Fell Tree,80,74,149 -> 76,78,149: Id #4327:Path Goal Chop:Station Wagon at 97,72,149
+path fail: dwarf,Fell Tree,61,79,149 -> 58,82,149: Id #4327:Path Goal Chop:Station None at 66,74,149
+path fail: cat,2,34,147 -> 3,34,147: Id #4331:Path Goal Seek Station:Station Vermin Hunting at 0,37,147
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+path fail: dwarf,Fell Tree,114,74,147 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,64,148
+path fail: dwarf,Fell Tree,108,68,147 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,64,148
+path fail: dwarf,Fell Tree,100,63,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,93,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,93,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,68,148
+path fail: dwarf,Fell Tree,90,66,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,90,66,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,90,66,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,90,66,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,90,66,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,88,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,66,148
+path fail: dwarf,Fell Tree,120,79,147 -> 118,74,147: Id #2649:Path Goal Chop:Station Wagon at 90,64,148
+path fail: dwarf,Fell Tree,119,79,146 -> 118,74,147: Id #2649:Path Goal Chop:Station Wagon at 90,64,148
+path fail: dwarf,Fell Tree,110,76,147 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,103,69,147 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,94,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,92,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,92,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,93,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,68,148
+path fail: dwarf,Fell Tree,92,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,66,148
+path fail: dwarf,Fell Tree,92,67,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,66,148
+path fail: dwarf,Fell Tree,92,65,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,64,148
+path fail: dwarf,Fell Tree,92,70,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 92,70,148
+path fail: dwarf,Fell Tree,92,70,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,70,148
+path fail: dwarf,Fell Tree,90,70,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,70,148
+path fail: dwarf,Fell Tree,89,71,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,70,148
+path fail: dwarf,Fell Tree,89,69,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 89,70,148
+path fail: dwarf,Fell Tree,92,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+path fail: dwarf,Fell Tree,94,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+path fail: dwarf,Fell Tree,94,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+path fail: dwarf,Fell Tree,94,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+path fail: dwarf,Fell Tree,94,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+path fail: dwarf,Fell Tree,94,68,148 -> 117,73,147: Id #2649:Path Goal Chop:Station Wagon at 93,67,148
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+path fail: dwarf,Construct Building,143,72,154 -> 142,72,154: Id #9653:Path Goal Main Job Building:Station Wagon at 118,70,155
+path fail: dwarf,Construct Building,150,71,154 -> 144,71,154: Id #9653:Path Goal Main Job Building:Station Wagon at 120,71,155
+path fail: dwarf,Construct Building,150,71,155 -> 143,70,154: Id #9650:Path Goal Main Job Building:Station Wagon at 123,74,155
+path fail: dwarf,Construct Building,147,71,154 -> 144,72,154: Id #9652:Path Goal Main Job Building:Station Wagon at 122,74,155
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: G00S3

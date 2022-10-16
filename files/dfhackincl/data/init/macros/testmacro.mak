@@ -1,0 +1,2 @@
+testmacro
+End of macro
