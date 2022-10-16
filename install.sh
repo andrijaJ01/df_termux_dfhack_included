@@ -4,4 +4,4 @@ wget https://ryanfortner.github.io/box64-debs/box64.list -O /etc/apt/sources.lis
 apt update
 apt install box64 -y
 echo "done, now you should be able to play"
-echo "there are two variations with snd without dfhack"
+echo "there are two variations with and without dfhack"
